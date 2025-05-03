@@ -13,7 +13,7 @@ Nosso papel é ajudar a Opuline a iniciar sua transformação digital por meio d
 
 💬 Geração de insights que agregam valor real ao negócio, indo além da estética visual
 
-🧠 O que você vai aprender
+🧠 O que aprendemos?
 ✅ Visualizações com Propósito
 Aprenderemos como escolher o gráfico certo para cada análise, como criar indicadores eficientes e como interpretar os dados visualmente com clareza e impacto.
 
